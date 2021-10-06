@@ -1,4 +1,4 @@
-# Hololens-Vuforia Setup
+# Hololens2-Vuforia Setup
 ## Environment
  - **Windows SDK (10.0.22000)**  
  https://developer.microsoft.com/zh-tw/windows/downloads/windows-sdk/ 
