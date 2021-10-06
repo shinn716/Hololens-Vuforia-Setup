@@ -10,7 +10,7 @@
  - Mixed Reality Feature Tool (Fast to setup MRTK)  
  https://www.microsoft.com/en-us/download/details.aspx?id=102778
 
-## Step
+## Install MRTK to Unity
 1. Unity Build Settings -> UWP
 2. Player Settings / XR management -> Mixer Reality or OpenXR (Need to import ***Mixed Reality OpenXR Plugin*** from ***Mixed Reality Feature Tool***)
 3. Import Vuforia SDK (Version 10.2.5) .unitypackage
@@ -18,7 +18,7 @@
 5. Hololens+Vuforia setup in unity  
 https://www.youtube.com/watch?v=o0ybVu9SB7g
 
-## Build 
+## Build And Depoly to hololens 
 1. Build Settings / Player Settings / Capabilites /  
 Check **PicturesLibrary**, **VideosLibrary**, **WebCam**, **Microphone**, **SpatialPerception** 
 2. Build Settings / UWP / Build (Nothing to change) 
