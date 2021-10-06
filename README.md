@@ -24,7 +24,13 @@ Check **PicturesLibrary**, **VideosLibrary**, **WebCam**, **Microphone**, **Spat
 2. Build Settings / UWP / Build (Nothing to change) 
 3. Build path ... / HololensDemo.sln (Open with Visual Studio 2019)  
 4. Deploy Select Devices (Debug / ARM / Devices) / Run 
- 
+
+## Using the Windows Device Portal  
+ https://docs.microsoft.com/en-us/windows/mixed-reality/develop/platform-capabilities-and-apis/using-the-windows-device-portal  
+
+## Live-streaming / Video Capture  
+https://www.microsoft.com/store/productId/9NBLGGH4QWNX  
+
 ## Others
  - UNITY MRTK Setup  
  https://www.youtube.com/watch?v=wSPXTRYxq9A
