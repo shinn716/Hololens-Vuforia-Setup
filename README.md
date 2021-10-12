@@ -3,7 +3,7 @@
  - **Windows SDK (10.0.22000)**  
  https://developer.microsoft.com/zh-tw/windows/downloads/windows-sdk/ 
  - Visual Studio 2019 (Extra adds UWP development/Desktop development with C++/Game development with Unity)  
- - Unity Version: 2020.3.11f1, 2019.4.28f1  
+ - Unity Version: 2020.3.11f1   
  - Vuforia Version: 10.2.5
  - MRTK Version: 2.7.2  
  __Recommend__  
