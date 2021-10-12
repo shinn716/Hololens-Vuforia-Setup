@@ -17,6 +17,8 @@
 4. Import MRTK (Version 2.7.2) Foundation/Example/Extension or import example from ***Mixed Reality Feature Tool***.  
 5. Hololens+Vuforia setup in unity  
 https://www.youtube.com/watch?v=o0ybVu9SB7g
+6. Vuforia in hololens, follow project setup.
+https://library.vuforia.com/articles/Solution/Working-with-the-HoloLens-sample-in-Unity.html
 
 ## Build And Depoly to hololens 
 1. Build Settings / Player Settings / Capabilites /  
