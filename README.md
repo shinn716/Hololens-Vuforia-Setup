@@ -10,7 +10,7 @@
  - Mixed Reality Feature Tool (Fast to setup MRTK)  
  https://www.microsoft.com/en-us/download/details.aspx?id=102778
 
-## Install MRTK to Unity
+## Install MRTK / Vuforia into Unity
 1. Unity Build Settings -> UWP
 2. Player Settings / XR management -> Mixer Reality or OpenXR (Need to import ***Mixed Reality OpenXR Plugin*** from ***Mixed Reality Feature Tool***)
 3. Import Vuforia SDK (Version 10.2.5) .unitypackage
