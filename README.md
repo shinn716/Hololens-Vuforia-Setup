@@ -25,8 +25,9 @@ Check **PicturesLibrary**, **VideosLibrary**, **WebCam**, **Microphone**, **Spat
 ## Pair Developer Mode
 1. 首先先將藍芽與開發的PC配對  
 <img src="https://github.com/shinn716/Hololens-Vuforia-Setup/blob/main/images/Snipaste_2021-10-20_09-02-34.png"  alt="Cover" width="50%" /></a>  
-3. Settings/Update&Security/ForDevelopers  
+2. Settings/Update&Security/ForDevelopers  
    所有選項都開啟(UseDeveloperFeatures/DevicesDiscovery/DevicePortal)  
+<img src="https://github.com/shinn716/Hololens-Vuforia-Setup/blob/main/images/20211019_225739_HoloLens.jpg"  alt="Cover" width="50%" /></a>  
 3. 回到 Visual Studio, 進行 Depoly, 第一次進行Depoly時, 會出現輸入 PIN 選單  
 4. 需要回到 Hololens2 Settings/Update&Security/ForDevelopers DevicesDiscovery 選項, 按下Pair
 5. 輸入 PIN  
