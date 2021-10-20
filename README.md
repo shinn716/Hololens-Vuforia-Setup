@@ -50,7 +50,7 @@ https://www.microsoft.com/store/productId/9NBLGGH4QWNX
 <img src="https://github.com/shinn716/Hololens-Vuforia-Setup/blob/main/images/Snipaste_2021-10-14_16-06-18.png" alt="Cover" width="50%" /></a>  
 解決辦法:  
 更動APP名稱, 在重新Depoly  
-3. Hololens 無法連到 Windows Store, Error Code: 0x80131500
+3. Hololens 無法連到 Windows Store, Error Code: 0x80131500  
 解決辦法:  
 重置 Hololens, 開始地區選擇US.  
   
